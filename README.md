@@ -33,6 +33,6 @@
 
 ### 📬 Контакты
 
-- 💬 Telegram: [@epomazdo](https://t.me/epomazdo)
-
+- 💬 Telegram: [@epomazdo](https://t.me/epomazdo)  
+- 📧 Email: [epomazdo@gmail.com](mailto:epomazdo@gmail.com)
 
