@@ -8,9 +8,8 @@
 
 ### 🧠 About Me
 
-I'm a backend developer focused on building reliable, scalable, and maintainable services in **Go**.  
-I have strong experience designing and developing **RESTful APIs**, integrating services, and working with containerized infrastructure.  
-I’m passionate about writing clean code, optimizing performance, and automating development workflows.
+I'm a backend developer focused on building scalable services and **RESTful APIs** with **Go**.  
+I enjoy writing clean, efficient code and deploying containerized applications in production.
 
 ---
 
