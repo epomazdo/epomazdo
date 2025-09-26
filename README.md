@@ -1,38 +1,39 @@
-<h1 align="center">👋 Привет, я epomazdo</h1>
+<h1 align="center">👋 Hi, I'm epomazdo</h1>
 
 <p align="center">
-  🧑‍💻 Golang-разработчик | ⚙️ Backend Engineer | 🚀 Open Source Enthusiast
+  🐹 Golang Developer | ⚙️ Backend Engineer | 🚀 REST API Specialist
 </p>
 
 ---
 
-### 🧠 О себе
+### 🧠 About Me
 
-Я backend-разработчик, специализирующийся на создании надёжных и высоконагруженных сервисов на **Go**.  
-Люблю писать чистый, поддерживаемый код и автоматизировать всё, что можно 🚀
-
----
-
-### 🛠️ Технологический стек
-
-- 🐹 **Golang** — основной язык разработки  
-- 🗄️ **PostgreSQL** — реляционные БД и оптимизация запросов  
-- 🐙 **Git** — контроль версий и командная работа  
-- 🐳 **Docker / Docker Compose** — контейнеризация и оркестрация  
-- ☸️ **Kubernetes** — деплой и управление микросервисами в продакшене  
+I'm a backend developer focused on building reliable, scalable, and maintainable services in **Go**.  
+I have strong experience designing and developing **RESTful APIs**, integrating services, and working with containerized infrastructure.  
+I’m passionate about writing clean code, optimizing performance, and automating development workflows.
 
 ---
 
-### 📈 GitHub Статистика
+### 🛠️ Tech Stack
+
+- 🐹 **Golang** — core backend development  
+- 🗄️ **PostgreSQL** — relational database design and optimization  
+- 🐙 **Git** — version control and collaborative development  
+- 🐳 **Docker / Docker Compose** — containerization and service orchestration  
+- ☸️ **Kubernetes** — deploying and managing microservices in production  
+- 🌐 **REST API** — designing scalable, well-documented API solutions  
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epomazdo&layout=compact&theme=radical&langs_count=6" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epomazdo&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
 
-### 📬 Контакты
+### 📬 Contact
 
 - 💬 Telegram: [@epomazdo](https://t.me/epomazdo)  
 - 📧 Email: [epomazdo@gmail.com](mailto:epomazdo@gmail.com)
-
